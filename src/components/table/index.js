@@ -1,0 +1,1 @@
+export { TableProduct } from "./TableProduct";
